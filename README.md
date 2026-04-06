@@ -1,7 +1,6 @@
 
 <!-- Banner / Logo -->
-
-//![logo](https://github.com/bevvee/bevvee/blob/main/ba.png)
+![logo](https://github.com/elbrenssi/elbrenssi/blob/main/bannie%CC%80re%20pro%20%20(Bannie%CC%80re%20LinkedIn).png)
 
 <h1 align="center">Hi 👋, I'm <strong>ELBRENSSI REDA</strong></h1>
 <!-- <h3 align="center">💻 Software Engineer from Morocco 🇲🇦</h3> -->
