@@ -15,7 +15,6 @@
   <a href="https://linkedin.com/in/elbrenssi-reda" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-
   &nbsp;&nbsp;
   <a href="https://instagram.com/elbrenssi_reda" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
@@ -107,9 +106,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bevvee&theme=github_dark" alt="summry card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elbrenssi&theme=github_dark" alt="summry card"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bevvee&theme=dark&hide_border=false" alt="WakaTime Stats"/>
-</div>
+
